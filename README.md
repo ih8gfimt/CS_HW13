@@ -143,8 +143,8 @@ _TODO: Answer the following questions to fill in the blanks:_
 - _Which file is the playbook? Where do you copy it?_
 
 Ans:
-filebeat-playbook.yml
-Copy to DVMA1 & DVMA 2 /etc/filebeat/filebeat.yml
+1. filebeat-playbook.yml
+2. Copy to DVMA1 & DVMA 2 /etc/filebeat/filebeat.yml
 
 - _Which file do you update to make Ansible run the playbook on a specific machine? How do I specify which machine to install the ELK server on versus which to install Filebeat on?_
 
